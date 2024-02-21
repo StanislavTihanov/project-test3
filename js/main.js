@@ -15,7 +15,6 @@ window.addEventListener('resize', function () {
       slidesToShow: 1,
       slidesToScroll: 1,
       speed: 2000,
-
     });
 	} else {
 		sliderMini.classList.remove('slider__mini');
